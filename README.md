@@ -1,4 +1,4 @@
 - Hi I'm <b>Mauro</b>
 - I'm a <b>junior developer</b>
-- I'm actually coding <b>Java</b> backend using <b>Spring</b> framework 
+- Now I'm coding <b>Java</b> backend using <b>Spring</b> framework 
 - and <b>Angular.js</b> or <b>Nuxt.js</b> on frontend
